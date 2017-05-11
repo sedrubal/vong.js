@@ -1,22 +1,18 @@
-Der Skript
-==========
+# Vong Skript
 
-Der Javascript zu der Ersetzen von Sprache in der kapotte Sprache in der Website.
----------------------------------------------------------------------------------
+## 1 nices Javascript für Gramatig auf Websiten. lol
 
-Inspiriert von der [Vale](https://github.com/vale/).
+Inspiriert vong H1.
 
-Der Verwendung
---------------
+# Verwemdun
 
-Der Developer Console in der Firefox oder der Chrome öffnen und der [Skript](derSkript.js) rein copy&pasten.
+1 Developer Comsole vong Firefox oder vong Chrome auf machem umd dem [Skript](vong.js) rein copy&pastem.
 
-License
--------
+# License
 
-**DER BEER-WARE LIZENZ (Revision 1337):**
+### Bierraten Lizenz (Revision 1337):
 
-Der [Sedrubal](https://github.com/sedrubal) hat der Projekt gemacht.
-Solange du der Lizenzhinweis beibehältst, kannst du damit machen was du willst.
-Wenn wir uns irgendwann mal treffen und du denkst, dass der Zeug es wert ist, kannst du mir der Bier kaufen.
+Das Projekt isd vong [Sedrubal](https://github.com/sedrubal).
+Solange du dem Lizenzhinweis beibehältst, kanst du damit machem was du wilsd.
+Wem wir uns irgendwam mal trefem umd dir das gefäld vong Niceichkeit her, kanst du mir 1 Bier kaufem.
 Sedrubal
